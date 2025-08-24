@@ -22,4 +22,3 @@ portfolio/
 │── projects.html # Projects Page
 │── contact.html # Contact Me Page
 │── style.css # Stylesheet
-│── assets/ # (images, icons, etc.)
