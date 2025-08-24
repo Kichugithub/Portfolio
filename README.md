@@ -16,9 +16,8 @@ It highlights my projects, skills, and provides contact details.
 - Hosted on **GitHub Pages**
 
 ## 📂 Folder Structure
-portfolio/
-│── index.html # Home Page
-│── about.html # About Me Page
-│── projects.html # Projects Page
-│── contact.html # Contact Me Page
-│── style.css # Stylesheet
+index.html # Home Page
+about.html # About Me Page
+projects.html # Projects Page
+contact.html # Contact Me Page
+style.css # Stylesheet
